@@ -1,0 +1,5 @@
+Computer Name: XMP1HTWSA
+Date of Test: 2025-11-25 11:05:49
+Bubble Sort Time: 10.872699 seconds
+Quick Sort Time: 0.017308 seconds
+
