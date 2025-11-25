@@ -1,0 +1,5 @@
+Computer Name: BOOK-KPFR1LHI5D
+Date of Test: 2025-11-25 12:23:58
+Bubble Sort Time: 11.941152 seconds
+Quick Sort Time: 0.046814 seconds
+
